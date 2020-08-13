@@ -26,7 +26,7 @@ namespace ProgramacionEnParalelo
             {
                 if(numeroCamiseta == 2)
                     Console.WriteLine( "\t\t\t\t");
-                Console.WriteLine("-Persona {0} inici con la persona {1}", numeroCamiseta, (i + 1));
+                Console.WriteLine("-Persona {0} inició con la persona {1}", numeroCamiseta, (i + 1));
                 Thread.Sleep(personas[i] * 1000);
 
                 if(numeroCamiseta == 2)
