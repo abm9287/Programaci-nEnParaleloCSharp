@@ -1,4 +1,6 @@
 # Programación EnParaleloCSharp
 
 Resultado
-![imagen](https://user-images.githubusercontent.com/49075053/90085719-48c5e280-dcde-11ea-9740-28479e62ed77.png)
+
+
+![imagen](https://user-images.githubusercontent.com/49075053/90085851-97737c80-dcde-11ea-93d6-9214f08965ed.png)
